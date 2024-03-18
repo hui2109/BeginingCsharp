@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{24686E3E-C51F-4B89-AE71-8EF39644131F}</ProjectGuid>
+    <ProjectGuid>{53251535-C42E-4648-865C-932AF659B55F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>HelloWorld</RootNamespace>
-    <AssemblyName>HelloWorld</AssemblyName>
+    <RootNamespace>_01_Ch03Ex01</RootNamespace>
+    <AssemblyName>01_Ch03Ex01</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -49,6 +49,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
