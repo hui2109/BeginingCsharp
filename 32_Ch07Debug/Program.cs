@@ -33,6 +33,7 @@ namespace _32_Ch07Debug
             for (int i = 1; i < integers.Length; i++)
             {
                 Debug.WriteLine($"Now looking at element at index {i}.");
+                Debug.Assert(i < 10, "pop box", $"output window {i}");
                 if (integers[i] > maxVal)
                 {
                     maxVal = integers[i];
