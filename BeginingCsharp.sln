@@ -93,6 +93,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42_Ch10OverrideVsNew", "42_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "43_Ch10Ex02", "43_Ch10Ex02\43_Ch10Ex02.csproj", "{53123CCD-5B5C-41D5-837E-63E28088C33A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "44_Ch10CardLib", "44_Ch10CardLib\44_Ch10CardLib.csproj", "{6B6D73D4-BAFE-4973-9105-10ED8219A392}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45_Ch10CardClient", "45_Ch10CardClient\45_Ch10CardClient.csproj", "{F9175A59-DB21-4991-9901-4DCD6AF01525}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -279,6 +283,14 @@ Global
 		{53123CCD-5B5C-41D5-837E-63E28088C33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53123CCD-5B5C-41D5-837E-63E28088C33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53123CCD-5B5C-41D5-837E-63E28088C33A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B6D73D4-BAFE-4973-9105-10ED8219A392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B6D73D4-BAFE-4973-9105-10ED8219A392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B6D73D4-BAFE-4973-9105-10ED8219A392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B6D73D4-BAFE-4973-9105-10ED8219A392}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9175A59-DB21-4991-9901-4DCD6AF01525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9175A59-DB21-4991-9901-4DCD6AF01525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9175A59-DB21-4991-9901-4DCD6AF01525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9175A59-DB21-4991-9901-4DCD6AF01525}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

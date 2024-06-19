@@ -27,7 +27,8 @@ namespace _42_Ch10OverrideVsNew
 
         public class MyDerivedClass : MyBaseClass
         {
-            public override void DoSomething() => Console.WriteLine("Derived imp");
-            //new public void DoSomething() => Console.WriteLine("Derived imp");
+            //public override void DoSomething() => Console.WriteLine("Derived imp");
+            new public void DoSomething() => Console.WriteLine("Derived imp");
         }
     }
+}

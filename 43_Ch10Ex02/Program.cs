@@ -22,7 +22,7 @@ namespace _43_Ch10Ex02
     public class ClassA
     {
         private int state = -1;
-        public int State => state;  // "State" property  is read only.
+        public int State => state;  // "State" property is read only.
         public class ClassB
         {
             public void SetPrivateState(ClassA target, int newState)

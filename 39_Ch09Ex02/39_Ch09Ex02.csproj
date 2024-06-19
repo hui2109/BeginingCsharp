@@ -9,9 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="38_Ch09ClassLib">
-      <HintPath>..\38_Ch09ClassLib\bin\Debug\net8.0\38_Ch09ClassLib.dll</HintPath>
-    </Reference>
+    <ProjectReference Include="..\38_Ch09ClassLib\38_Ch09ClassLib.csproj" />
   </ItemGroup>
 
 </Project>
