@@ -115,6 +115,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "53_Ch11Ex03", "53_Ch11Ex03\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "54_Ch11DictionaryAnimals", "54_Ch11DictionaryAnimals\54_Ch11DictionaryAnimals.csproj", "{A6D479E7-B6AD-45FD-B20D-4F700ED990D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "55_Ch11Ex04", "55_Ch11Ex04\55_Ch11Ex04.csproj", "{AB859027-43FC-4A4C-BFE1-E40FB6ECF59B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -345,6 +347,10 @@ Global
 		{A6D479E7-B6AD-45FD-B20D-4F700ED990D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6D479E7-B6AD-45FD-B20D-4F700ED990D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6D479E7-B6AD-45FD-B20D-4F700ED990D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB859027-43FC-4A4C-BFE1-E40FB6ECF59B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB859027-43FC-4A4C-BFE1-E40FB6ECF59B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB859027-43FC-4A4C-BFE1-E40FB6ECF59B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB859027-43FC-4A4C-BFE1-E40FB6ECF59B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
