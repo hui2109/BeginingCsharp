@@ -55,14 +55,6 @@ namespace _49_Ch11Ex01
             Console.WriteLine($"The animal called {myCow1.Name} is at index {animalArrayList.IndexOf(myCow1)}.");
             myCow1.Name = "Mary";
             Console.WriteLine($"The animal is now called {((Animal)animalArrayList[1]).Name}.");
-
-            AnimalCollection animalCollection = new AnimalCollection();
-            animalCollection.Add(new Cow("Lea"));
-            Console.WriteLine(animalCollection.Count);
-            Console.WriteLine(animalCollection[0].Name);
-            animalCollection[0].Feed();
         }
     }
-
-
 }
